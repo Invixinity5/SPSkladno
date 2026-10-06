@@ -1,1 +1,1 @@
-# SPSkladno
+# skola
